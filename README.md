@@ -83,5 +83,3 @@ If you want to contribute to this package or have suggestions for improvements, 
 ## License
 
 This package is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-You can use this template to generate your README file for the TextSubstitutor package. Make sure to replace `"your-username"` with your actual GitHub username in the installation and contributing sections.
